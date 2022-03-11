@@ -1,0 +1,1121 @@
+{
+  "dungeonId": "dungeon-1",
+  "dungeonName": "advanced",
+  "entities": [
+    {
+      "position": {
+        "x": 0,
+        "y": 0,
+        "layer": 0
+      },
+      "entityID": 0,
+      "entityType": "wall"
+    },
+    {
+      "position": {
+        "x": 1,
+        "y": 0,
+        "layer": 0
+      },
+      "entityID": 1,
+      "entityType": "wall"
+    },
+    {
+      "position": {
+        "x": 2,
+        "y": 0,
+        "layer": 0
+      },
+      "entityID": 2,
+      "entityType": "wall"
+    },
+    {
+      "position": {
+        "x": 3,
+        "y": 0,
+        "layer": 0
+      },
+      "entityID": 3,
+      "entityType": "wall"
+    },
+    {
+      "position": {
+        "x": 4,
+        "y": 0,
+        "layer": 0
+      },
+      "entityID": 4,
+      "entityType": "wall"
+    },
+    {
+      "position": {
+        "x": 5,
+        "y": 0,
+        "layer": 0
+      },
+      "entityID": 5,
+      "entityType": "wall"
+    },
+    {
+      "position": {
+        "x": 6,
+        "y": 0,
+        "layer": 0
+      },
+      "entityID": 6,
+      "entityType": "wall"
+    },
+    {
+      "position": {
+        "x": 7,
+        "y": 0,
+        "layer": 0
+      },
+      "entityID": 7,
+      "entityType": "wall"
+    },
+    {
+      "position": {
+        "x": 8,
+        "y": 0,
+        "layer": 0
+      },
+      "entityID": 8,
+      "entityType": "wall"
+    },
+    {
+      "position": {
+        "x": 9,
+        "y": 0,
+        "layer": 0
+      },
+      "entityID": 9,
+      "entityType": "wall"
+    },
+    {
+      "position": {
+        "x": 10,
+        "y": 0,
+        "layer": 0
+      },
+      "entityID": 10,
+      "entityType": "wall"
+    },
+    {
+      "position": {
+        "x": 11,
+        "y": 0,
+        "layer": 0
+      },
+      "entityID": 11,
+      "entityType": "wall"
+    },
+    {
+      "position": {
+        "x": 12,
+        "y": 0,
+        "layer": 0
+      },
+      "entityID": 12,
+      "entityType": "wall"
+    },
+    {
+      "position": {
+        "x": 13,
+        "y": 0,
+        "layer": 0
+      },
+      "entityID": 13,
+      "entityType": "wall"
+    },
+    {
+      "position": {
+        "x": 14,
+        "y": 0,
+        "layer": 0
+      },
+      "entityID": 14,
+      "entityType": "wall"
+    },
+    {
+      "position": {
+        "x": 15,
+        "y": 0,
+        "layer": 0
+      },
+      "entityID": 15,
+      "entityType": "wall"
+    },
+    {
+      "position": {
+        "x": 16,
+        "y": 0,
+        "layer": 0
+      },
+      "entityID": 16,
+      "entityType": "wall"
+    },
+    {
+      "position": {
+        "x": 17,
+        "y": 0,
+        "layer": 0
+      },
+      "entityID": 17,
+      "entityType": "wall"
+    },
+    {
+      "position": {
+        "x": 0,
+        "y": 1,
+        "layer": 0
+      },
+      "entityID": 18,
+      "entityType": "wall"
+    },
+    {
+      "detectable": false,
+      "invincible": false,
+      "detectableDuration": 10,
+      "invincibleDuration": 5,
+      "inCombat": false,
+      "inventory": {},
+      "equipped": {},
+      "attackDamage": 5.0,
+      "health": 100.0,
+      "position": {
+        "x": 1,
+        "y": 1,
+        "layer": 1
+      },
+      "entityID": 19,
+      "entityType": "player"
+    },
+    {
+      "damage": 20.0,
+      "durability": 5,
+      "position": {
+        "x": 6,
+        "y": 1,
+        "layer": 2
+      },
+      "entityID": 20,
+      "entityType": "sword"
+    },
+    {
+      "position": {
+        "x": 17,
+        "y": 1,
+        "layer": 0
+      },
+      "entityID": 21,
+      "entityType": "wall"
+    },
+    {
+      "position": {
+        "x": 0,
+        "y": 2,
+        "layer": 0
+      },
+      "entityID": 22,
+      "entityType": "wall"
+    },
+    {
+      "position": {
+        "x": 3,
+        "y": 2,
+        "layer": 0
+      },
+      "entityID": 23,
+      "entityType": "wall"
+    },
+    {
+      "position": {
+        "x": 6,
+        "y": 2,
+        "layer": 0
+      },
+      "entityID": 24,
+      "entityType": "wall"
+    },
+    {
+      "position": {
+        "x": 7,
+        "y": 2,
+        "layer": 0
+      },
+      "entityID": 25,
+      "entityType": "wall"
+    },
+    {
+      "position": {
+        "x": 8,
+        "y": 2,
+        "layer": 0
+      },
+      "entityID": 26,
+      "entityType": "wall"
+    },
+    {
+      "position": {
+        "x": 9,
+        "y": 2,
+        "layer": 0
+      },
+      "entityID": 27,
+      "entityType": "wall"
+    },
+    {
+      "position": {
+        "x": 12,
+        "y": 2,
+        "layer": 0
+      },
+      "entityID": 28,
+      "entityType": "wall"
+    },
+    {
+      "position": {
+        "x": 13,
+        "y": 2,
+        "layer": 0
+      },
+      "entityID": 29,
+      "entityType": "wall"
+    },
+    {
+      "position": {
+        "x": 14,
+        "y": 2,
+        "layer": 0
+      },
+      "entityID": 30,
+      "entityType": "wall"
+    },
+    {
+      "position": {
+        "x": 15,
+        "y": 2,
+        "layer": 0
+      },
+      "entityID": 31,
+      "entityType": "wall"
+    },
+    {
+      "position": {
+        "x": 17,
+        "y": 2,
+        "layer": 0
+      },
+      "entityID": 32,
+      "entityType": "wall"
+    },
+    {
+      "position": {
+        "x": 0,
+        "y": 3,
+        "layer": 0
+      },
+      "entityID": 33,
+      "entityType": "wall"
+    },
+    {
+      "position": {
+        "x": 3,
+        "y": 3,
+        "layer": 0
+      },
+      "entityID": 34,
+      "entityType": "wall"
+    },
+    {
+      "position": {
+        "x": 4,
+        "y": 3,
+        "layer": 0
+      },
+      "entityID": 35,
+      "entityType": "wall"
+    },
+    {
+      "position": {
+        "x": 15,
+        "y": 3,
+        "layer": 0
+      },
+      "entityID": 36,
+      "entityType": "wall"
+    },
+    {
+      "position": {
+        "x": 17,
+        "y": 3,
+        "layer": 0
+      },
+      "entityID": 37,
+      "entityType": "wall"
+    },
+    {
+      "position": {
+        "x": 0,
+        "y": 4,
+        "layer": 0
+      },
+      "entityID": 38,
+      "entityType": "wall"
+    },
+    {
+      "position": {
+        "x": 8,
+        "y": 4,
+        "layer": 0
+      },
+      "entityID": 39,
+      "entityType": "wall"
+    },
+    {
+      "position": {
+        "x": 13,
+        "y": 4,
+        "layer": 2
+      },
+      "entityID": 40,
+      "entityType": "bomb"
+    },
+    {
+      "position": {
+        "x": 17,
+        "y": 4,
+        "layer": 0
+      },
+      "entityID": 41,
+      "entityType": "wall"
+    },
+    {
+      "position": {
+        "x": 0,
+        "y": 5,
+        "layer": 0
+      },
+      "entityID": 42,
+      "entityType": "wall"
+    },
+    {
+      "gold": 5,
+      "hostile": false,
+      "battleRadius": 0,
+      "attackDamage": 5.0,
+      "health": 100.0,
+      "position": {
+        "x": 3,
+        "y": 5,
+        "layer": 1
+      },
+      "entityID": 43,
+      "entityType": "mercenary"
+    },
+    {
+      "position": {
+        "x": 8,
+        "y": 5,
+        "layer": 0
+      },
+      "entityID": 44,
+      "entityType": "wall"
+    },
+    {
+      "position": {
+        "x": 17,
+        "y": 5,
+        "layer": 0
+      },
+      "entityID": 45,
+      "entityType": "wall"
+    },
+    {
+      "position": {
+        "x": 0,
+        "y": 6,
+        "layer": 0
+      },
+      "entityID": 46,
+      "entityType": "wall"
+    },
+    {
+      "position": {
+        "x": 6,
+        "y": 6,
+        "layer": 0
+      },
+      "entityID": 47,
+      "entityType": "wall"
+    },
+    {
+      "position": {
+        "x": 8,
+        "y": 6,
+        "layer": 0
+      },
+      "entityID": 48,
+      "entityType": "wall"
+    },
+    {
+      "position": {
+        "x": 9,
+        "y": 6,
+        "layer": 0
+      },
+      "entityID": 49,
+      "entityType": "wall"
+    },
+    {
+      "position": {
+        "x": 13,
+        "y": 6,
+        "layer": 0
+      },
+      "entityID": 50,
+      "entityType": "wall"
+    },
+    {
+      "position": {
+        "x": 17,
+        "y": 6,
+        "layer": 0
+      },
+      "entityID": 51,
+      "entityType": "wall"
+    },
+    {
+      "position": {
+        "x": 0,
+        "y": 7,
+        "layer": 0
+      },
+      "entityID": 52,
+      "entityType": "wall"
+    },
+    {
+      "position": {
+        "x": 6,
+        "y": 7,
+        "layer": 0
+      },
+      "entityID": 53,
+      "entityType": "wall"
+    },
+    {
+      "position": {
+        "x": 12,
+        "y": 7,
+        "layer": 0
+      },
+      "entityID": 54,
+      "entityType": "wall"
+    },
+    {
+      "position": {
+        "x": 13,
+        "y": 7,
+        "layer": 0
+      },
+      "entityID": 55,
+      "entityType": "wall"
+    },
+    {
+      "position": {
+        "x": 17,
+        "y": 7,
+        "layer": 0
+      },
+      "entityID": 56,
+      "entityType": "wall"
+    },
+    {
+      "position": {
+        "x": 0,
+        "y": 8,
+        "layer": 0
+      },
+      "entityID": 57,
+      "entityType": "wall"
+    },
+    {
+      "position": {
+        "x": 3,
+        "y": 8,
+        "layer": 0
+      },
+      "entityID": 58,
+      "entityType": "wall"
+    },
+    {
+      "position": {
+        "x": 4,
+        "y": 8,
+        "layer": 0
+      },
+      "entityID": 59,
+      "entityType": "wall"
+    },
+    {
+      "position": {
+        "x": 5,
+        "y": 8,
+        "layer": 0
+      },
+      "entityID": 60,
+      "entityType": "wall"
+    },
+    {
+      "position": {
+        "x": 6,
+        "y": 8,
+        "layer": 0
+      },
+      "entityID": 61,
+      "entityType": "wall"
+    },
+    {
+      "position": {
+        "x": 8,
+        "y": 8,
+        "layer": 0
+      },
+      "entityID": 62,
+      "entityType": "wall"
+    },
+    {
+      "position": {
+        "x": 9,
+        "y": 8,
+        "layer": 0
+      },
+      "entityID": 63,
+      "entityType": "wall"
+    },
+    {
+      "position": {
+        "x": 10,
+        "y": 8,
+        "layer": 0
+      },
+      "entityID": 64,
+      "entityType": "wall"
+    },
+    {
+      "position": {
+        "x": 13,
+        "y": 8,
+        "layer": 0
+      },
+      "entityID": 65,
+      "entityType": "wall"
+    },
+    {
+      "position": {
+        "x": 17,
+        "y": 8,
+        "layer": 0
+      },
+      "entityID": 66,
+      "entityType": "wall"
+    },
+    {
+      "position": {
+        "x": 0,
+        "y": 9,
+        "layer": 0
+      },
+      "entityID": 67,
+      "entityType": "wall"
+    },
+    {
+      "position": {
+        "x": 9,
+        "y": 9,
+        "layer": 0
+      },
+      "entityID": 68,
+      "entityType": "wall"
+    },
+    {
+      "position": {
+        "x": 13,
+        "y": 9,
+        "layer": 0
+      },
+      "entityID": 69,
+      "entityType": "wall"
+    },
+    {
+      "position": {
+        "x": 14,
+        "y": 9,
+        "layer": 0
+      },
+      "entityID": 70,
+      "entityType": "wall"
+    },
+    {
+      "position": {
+        "x": 17,
+        "y": 9,
+        "layer": 0
+      },
+      "entityID": 71,
+      "entityType": "wall"
+    },
+    {
+      "position": {
+        "x": 0,
+        "y": 10,
+        "layer": 0
+      },
+      "entityID": 72,
+      "entityType": "wall"
+    },
+    {
+      "position": {
+        "x": 3,
+        "y": 10,
+        "layer": 0
+      },
+      "entityID": 73,
+      "entityType": "wall"
+    },
+    {
+      "position": {
+        "x": 5,
+        "y": 10,
+        "layer": 0
+      },
+      "entityID": 74,
+      "entityType": "wall"
+    },
+    {
+      "position": {
+        "x": 6,
+        "y": 10,
+        "layer": 0
+      },
+      "entityID": 75,
+      "entityType": "wall"
+    },
+    {
+      "position": {
+        "x": 7,
+        "y": 10,
+        "layer": 2
+      },
+      "entityID": 76,
+      "entityType": "treasure"
+    },
+    {
+      "position": {
+        "x": 11,
+        "y": 10,
+        "layer": 2
+      },
+      "entityID": 77,
+      "entityType": "invincibility_potion"
+    },
+    {
+      "position": {
+        "x": 17,
+        "y": 10,
+        "layer": 0
+      },
+      "entityID": 78,
+      "entityType": "wall"
+    },
+    {
+      "position": {
+        "x": 0,
+        "y": 11,
+        "layer": 0
+      },
+      "entityID": 79,
+      "entityType": "wall"
+    },
+    {
+      "position": {
+        "x": 3,
+        "y": 11,
+        "layer": 0
+      },
+      "entityID": 80,
+      "entityType": "wall"
+    },
+    {
+      "position": {
+        "x": 6,
+        "y": 11,
+        "layer": 0
+      },
+      "entityID": 81,
+      "entityType": "wall"
+    },
+    {
+      "position": {
+        "x": 8,
+        "y": 11,
+        "layer": 0
+      },
+      "entityID": 82,
+      "entityType": "wall"
+    },
+    {
+      "position": {
+        "x": 9,
+        "y": 11,
+        "layer": 0
+      },
+      "entityID": 83,
+      "entityType": "wall"
+    },
+    {
+      "position": {
+        "x": 10,
+        "y": 11,
+        "layer": 0
+      },
+      "entityID": 84,
+      "entityType": "wall"
+    },
+    {
+      "position": {
+        "x": 12,
+        "y": 11,
+        "layer": 0
+      },
+      "entityID": 85,
+      "entityType": "wall"
+    },
+    {
+      "position": {
+        "x": 17,
+        "y": 11,
+        "layer": 0
+      },
+      "entityID": 86,
+      "entityType": "wall"
+    },
+    {
+      "position": {
+        "x": 0,
+        "y": 12,
+        "layer": 0
+      },
+      "entityID": 87,
+      "entityType": "wall"
+    },
+    {
+      "position": {
+        "x": 3,
+        "y": 12,
+        "layer": 0
+      },
+      "entityID": 88,
+      "entityType": "wall"
+    },
+    {
+      "position": {
+        "x": 9,
+        "y": 12,
+        "layer": 0
+      },
+      "entityID": 89,
+      "entityType": "wall"
+    },
+    {
+      "position": {
+        "x": 12,
+        "y": 12,
+        "layer": 0
+      },
+      "entityID": 90,
+      "entityType": "wall"
+    },
+    {
+      "position": {
+        "x": 17,
+        "y": 12,
+        "layer": 0
+      },
+      "entityID": 91,
+      "entityType": "wall"
+    },
+    {
+      "position": {
+        "x": 0,
+        "y": 13,
+        "layer": 0
+      },
+      "entityID": 92,
+      "entityType": "wall"
+    },
+    {
+      "position": {
+        "x": 3,
+        "y": 13,
+        "layer": 0
+      },
+      "entityID": 93,
+      "entityType": "wall"
+    },
+    {
+      "position": {
+        "x": 4,
+        "y": 13,
+        "layer": 0
+      },
+      "entityID": 94,
+      "entityType": "wall"
+    },
+    {
+      "position": {
+        "x": 5,
+        "y": 13,
+        "layer": 0
+      },
+      "entityID": 95,
+      "entityType": "wall"
+    },
+    {
+      "position": {
+        "x": 12,
+        "y": 13,
+        "layer": 0
+      },
+      "entityID": 96,
+      "entityType": "wall"
+    },
+    {
+      "position": {
+        "x": 13,
+        "y": 13,
+        "layer": 0
+      },
+      "entityID": 97,
+      "entityType": "wall"
+    },
+    {
+      "position": {
+        "x": 14,
+        "y": 13,
+        "layer": 0
+      },
+      "entityID": 98,
+      "entityType": "wall"
+    },
+    {
+      "position": {
+        "x": 17,
+        "y": 13,
+        "layer": 0
+      },
+      "entityID": 99,
+      "entityType": "wall"
+    },
+    {
+      "position": {
+        "x": 0,
+        "y": 14,
+        "layer": 0
+      },
+      "entityID": 100,
+      "entityType": "wall"
+    },
+    {
+      "position": {
+        "x": 17,
+        "y": 14,
+        "layer": 0
+      },
+      "entityID": 101,
+      "entityType": "wall"
+    },
+    {
+      "position": {
+        "x": 0,
+        "y": 15,
+        "layer": 0
+      },
+      "entityID": 102,
+      "entityType": "wall"
+    },
+    {
+      "position": {
+        "x": 1,
+        "y": 15,
+        "layer": 0
+      },
+      "entityID": 103,
+      "entityType": "wall"
+    },
+    {
+      "position": {
+        "x": 2,
+        "y": 15,
+        "layer": 0
+      },
+      "entityID": 104,
+      "entityType": "wall"
+    },
+    {
+      "position": {
+        "x": 3,
+        "y": 15,
+        "layer": 0
+      },
+      "entityID": 105,
+      "entityType": "wall"
+    },
+    {
+      "position": {
+        "x": 4,
+        "y": 15,
+        "layer": 0
+      },
+      "entityID": 106,
+      "entityType": "wall"
+    },
+    {
+      "position": {
+        "x": 5,
+        "y": 15,
+        "layer": 0
+      },
+      "entityID": 107,
+      "entityType": "wall"
+    },
+    {
+      "position": {
+        "x": 6,
+        "y": 15,
+        "layer": 0
+      },
+      "entityID": 108,
+      "entityType": "wall"
+    },
+    {
+      "position": {
+        "x": 7,
+        "y": 15,
+        "layer": 0
+      },
+      "entityID": 109,
+      "entityType": "wall"
+    },
+    {
+      "position": {
+        "x": 8,
+        "y": 15,
+        "layer": 0
+      },
+      "entityID": 110,
+      "entityType": "wall"
+    },
+    {
+      "position": {
+        "x": 9,
+        "y": 15,
+        "layer": 0
+      },
+      "entityID": 111,
+      "entityType": "wall"
+    },
+    {
+      "position": {
+        "x": 10,
+        "y": 15,
+        "layer": 0
+      },
+      "entityID": 112,
+      "entityType": "wall"
+    },
+    {
+      "position": {
+        "x": 11,
+        "y": 15,
+        "layer": 0
+      },
+      "entityID": 113,
+      "entityType": "wall"
+    },
+    {
+      "position": {
+        "x": 12,
+        "y": 15,
+        "layer": 0
+      },
+      "entityID": 114,
+      "entityType": "wall"
+    },
+    {
+      "position": {
+        "x": 13,
+        "y": 15,
+        "layer": 0
+      },
+      "entityID": 115,
+      "entityType": "wall"
+    },
+    {
+      "position": {
+        "x": 14,
+        "y": 15,
+        "layer": 0
+      },
+      "entityID": 116,
+      "entityType": "wall"
+    },
+    {
+      "position": {
+        "x": 15,
+        "y": 15,
+        "layer": 0
+      },
+      "entityID": 117,
+      "entityType": "wall"
+    },
+    {
+      "position": {
+        "x": 16,
+        "y": 15,
+        "layer": 0
+      },
+      "entityID": 118,
+      "entityType": "wall"
+    },
+    {
+      "position": {
+        "x": 17,
+        "y": 15,
+        "layer": 0
+      },
+      "entityID": 119,
+      "entityType": "wall"
+    }
+  ],
+  "inventory": [],
+  "buildables": [],
+  "gameMode": "Standard",
+  "goalConditions": {
+    "goal": "AND",
+    "subgoals": [
+      {
+        "goal": "enemies"
+      },
+      {
+        "goal": "treasure"
+      }
+    ]
+  },
+  "entrance": {
+    "x": 1,
+    "y": 1,
+    "layer": 1
+  }
+}

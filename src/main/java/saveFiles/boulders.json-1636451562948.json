@@ -1,0 +1,475 @@
+{
+  "dungeonId": "dungeon-1",
+  "dungeonName": "boulders",
+  "entities": [
+    {
+      "position": {
+        "x": 2,
+        "y": 0,
+        "layer": 0
+      },
+      "entityID": 0,
+      "entityType": "wall"
+    },
+    {
+      "position": {
+        "x": 3,
+        "y": 0,
+        "layer": 0
+      },
+      "entityID": 1,
+      "entityType": "wall"
+    },
+    {
+      "position": {
+        "x": 4,
+        "y": 0,
+        "layer": 0
+      },
+      "entityID": 2,
+      "entityType": "wall"
+    },
+    {
+      "position": {
+        "x": 5,
+        "y": 0,
+        "layer": 0
+      },
+      "entityID": 3,
+      "entityType": "wall"
+    },
+    {
+      "position": {
+        "x": 6,
+        "y": 0,
+        "layer": 0
+      },
+      "entityID": 4,
+      "entityType": "wall"
+    },
+    {
+      "position": {
+        "x": 0,
+        "y": 1,
+        "layer": 0
+      },
+      "entityID": 5,
+      "entityType": "wall"
+    },
+    {
+      "position": {
+        "x": 1,
+        "y": 1,
+        "layer": 0
+      },
+      "entityID": 6,
+      "entityType": "wall"
+    },
+    {
+      "position": {
+        "x": 2,
+        "y": 1,
+        "layer": 0
+      },
+      "entityID": 7,
+      "entityType": "wall"
+    },
+    {
+      "position": {
+        "x": 6,
+        "y": 1,
+        "layer": 0
+      },
+      "entityID": 8,
+      "entityType": "wall"
+    },
+    {
+      "position": {
+        "x": 0,
+        "y": 2,
+        "layer": 0
+      },
+      "entityID": 9,
+      "entityType": "wall"
+    },
+    {
+      "position": {
+        "x": 1,
+        "y": 2,
+        "layer": 0
+      },
+      "entityID": 10,
+      "entityType": "switch"
+    },
+    {
+      "position": {
+        "x": 6,
+        "y": 2,
+        "layer": 0
+      },
+      "entityID": 11,
+      "entityType": "wall"
+    },
+    {
+      "position": {
+        "x": 0,
+        "y": 3,
+        "layer": 0
+      },
+      "entityID": 12,
+      "entityType": "wall"
+    },
+    {
+      "position": {
+        "x": 1,
+        "y": 3,
+        "layer": 0
+      },
+      "entityID": 13,
+      "entityType": "wall"
+    },
+    {
+      "position": {
+        "x": 2,
+        "y": 3,
+        "layer": 0
+      },
+      "entityID": 14,
+      "entityType": "wall"
+    },
+    {
+      "position": {
+        "x": 5,
+        "y": 3,
+        "layer": 0
+      },
+      "entityID": 15,
+      "entityType": "switch"
+    },
+    {
+      "position": {
+        "x": 6,
+        "y": 3,
+        "layer": 0
+      },
+      "entityID": 16,
+      "entityType": "wall"
+    },
+    {
+      "position": {
+        "x": 0,
+        "y": 4,
+        "layer": 0
+      },
+      "entityID": 17,
+      "entityType": "wall"
+    },
+    {
+      "position": {
+        "x": 1,
+        "y": 4,
+        "layer": 0
+      },
+      "entityID": 18,
+      "entityType": "switch"
+    },
+    {
+      "position": {
+        "x": 2,
+        "y": 4,
+        "layer": 0
+      },
+      "entityID": 19,
+      "entityType": "wall"
+    },
+    {
+      "position": {
+        "x": 3,
+        "y": 4,
+        "layer": 0
+      },
+      "entityID": 20,
+      "entityType": "wall"
+    },
+    {
+      "position": {
+        "x": 6,
+        "y": 4,
+        "layer": 0
+      },
+      "entityID": 21,
+      "entityType": "wall"
+    },
+    {
+      "position": {
+        "x": 0,
+        "y": 5,
+        "layer": 0
+      },
+      "entityID": 22,
+      "entityType": "wall"
+    },
+    {
+      "position": {
+        "x": 2,
+        "y": 5,
+        "layer": 0
+      },
+      "entityID": 23,
+      "entityType": "wall"
+    },
+    {
+      "triggered": false,
+      "position": {
+        "x": 4,
+        "y": 5,
+        "layer": 0
+      },
+      "entityID": 24,
+      "entityType": "switch"
+    },
+    {
+      "position": {
+        "x": 6,
+        "y": 5,
+        "layer": 0
+      },
+      "entityID": 25,
+      "entityType": "wall"
+    },
+    {
+      "position": {
+        "x": 7,
+        "y": 5,
+        "layer": 0
+      },
+      "entityID": 26,
+      "entityType": "wall"
+    },
+    {
+      "position": {
+        "x": 0,
+        "y": 6,
+        "layer": 0
+      },
+      "entityID": 27,
+      "entityType": "wall"
+    },
+    {
+      "position": {
+        "x": 3,
+        "y": 6,
+        "layer": 0
+      },
+      "entityID": 28,
+      "entityType": "switch"
+    },
+    {
+      "position": {
+        "x": 6,
+        "y": 6,
+        "layer": 0
+      },
+      "entityID": 29,
+      "entityType": "switch"
+    },
+    {
+      "position": {
+        "x": 7,
+        "y": 6,
+        "layer": 0
+      },
+      "entityID": 30,
+      "entityType": "wall"
+    },
+    {
+      "position": {
+        "x": 0,
+        "y": 7,
+        "layer": 0
+      },
+      "entityID": 31,
+      "entityType": "wall"
+    },
+    {
+      "position": {
+        "x": 4,
+        "y": 7,
+        "layer": 0
+      },
+      "entityID": 32,
+      "entityType": "switch"
+    },
+    {
+      "position": {
+        "x": 7,
+        "y": 7,
+        "layer": 0
+      },
+      "entityID": 33,
+      "entityType": "wall"
+    },
+    {
+      "position": {
+        "x": 0,
+        "y": 8,
+        "layer": 0
+      },
+      "entityID": 34,
+      "entityType": "wall"
+    },
+    {
+      "position": {
+        "x": 1,
+        "y": 8,
+        "layer": 0
+      },
+      "entityID": 35,
+      "entityType": "wall"
+    },
+    {
+      "position": {
+        "x": 2,
+        "y": 8,
+        "layer": 0
+      },
+      "entityID": 36,
+      "entityType": "wall"
+    },
+    {
+      "position": {
+        "x": 3,
+        "y": 8,
+        "layer": 0
+      },
+      "entityID": 37,
+      "entityType": "wall"
+    },
+    {
+      "position": {
+        "x": 4,
+        "y": 8,
+        "layer": 0
+      },
+      "entityID": 38,
+      "entityType": "wall"
+    },
+    {
+      "position": {
+        "x": 5,
+        "y": 8,
+        "layer": 0
+      },
+      "entityID": 39,
+      "entityType": "wall"
+    },
+    {
+      "position": {
+        "x": 6,
+        "y": 8,
+        "layer": 0
+      },
+      "entityID": 40,
+      "entityType": "wall"
+    },
+    {
+      "position": {
+        "x": 7,
+        "y": 8,
+        "layer": 0
+      },
+      "entityID": 41,
+      "entityType": "wall"
+    },
+    {
+      "detectable": false,
+      "invincible": false,
+      "detectableDuration": 10,
+      "invincibleDuration": 1,
+      "inCombat": false,
+      "inventory": {},
+      "equipped": {},
+      "attackDamage": 5.0,
+      "health": 100.0,
+      "position": {
+        "x": 5,
+        "y": 6,
+        "layer": 1
+      },
+      "entityID": 42,
+      "entityType": "player"
+    },
+    {
+      "position": {
+        "x": 1,
+        "y": 2,
+        "layer": 0
+      },
+      "entityID": 43,
+      "entityType": "boulder"
+    },
+    {
+      "position": {
+        "x": 5,
+        "y": 3,
+        "layer": 0
+      },
+      "entityID": 44,
+      "entityType": "boulder"
+    },
+    {
+      "position": {
+        "x": 3,
+        "y": 5,
+        "layer": 0
+      },
+      "entityID": 45,
+      "entityType": "boulder"
+    },
+    {
+      "position": {
+        "x": 1,
+        "y": 6,
+        "layer": 0
+      },
+      "entityID": 46,
+      "entityType": "boulder"
+    },
+    {
+      "position": {
+        "x": 3,
+        "y": 6,
+        "layer": 0
+      },
+      "entityID": 47,
+      "entityType": "boulder"
+    },
+    {
+      "position": {
+        "x": 4,
+        "y": 7,
+        "layer": 0
+      },
+      "entityID": 48,
+      "entityType": "boulder"
+    },
+    {
+      "position": {
+        "x": 5,
+        "y": 7,
+        "layer": 0
+      },
+      "entityID": 49,
+      "entityType": "boulder"
+    }
+  ],
+  "inventory": [],
+  "buildables": [],
+  "gameMode": "Standard",
+  "goals": ":boulder",
+  "entrance": {
+    "x": 2,
+    "y": 2,
+    "layer": 1
+  }
+}
